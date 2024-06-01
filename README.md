@@ -48,10 +48,10 @@ Fork The Repo
 <a href="https://youtu.be/sDojtm-bwN4?si=gbvAqTOSfuVRU2-k"><img title="Heroku Tutorial" src="https://img.shields.io/badge/Heroku Tutorial-h?color=black&style=for-the-badge&logo=heroku"></a>
 ### Deploy Railway
 
-<a href="https://railway.app/new"><img title="Phoenix-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a> 
+<a href="https://railway.app/new"><img title="Psalm-md Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a> 
  
  ## Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/FBxazkH1OW4IolWJZeraMS"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 **Star ⭐ The Repo For Amazing Commands**
