@@ -22,7 +22,7 @@ PSALM-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/Psalm/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Psalmmwesh/Psalm/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
