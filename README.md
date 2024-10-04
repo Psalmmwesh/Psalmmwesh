@@ -5,13 +5,7 @@
 
 
 <a href="https://ibb.co/YZFWtR4"><img src="https://i.ibb.co/16tn9vY/shoka-you.jpg" alt="shoka-you" border="0"></a>
-  
 
-    <img alt="" height="300" src="a href="https://ibb.co/D9yDNy5"> <img src="https://i.ibb.co/D9yDNy5/28c7744cfaa64b45b363142c9b88ae7e-1.webp" alt="28c7744cfaa64b45b363142c9b88ae7e-1" border="0"
-   
-</a> 
-    
-</p>
 <p align="center">
 <a 
 
