@@ -7,11 +7,6 @@
 <a href="https://ibb.co/YZFWtR4"><img src="https://i.ibb.co/16tn9vY/shoka-you.jpg" alt="shoka-you" border="0"></a>
 
 <p align="center">
-<a 
-
-####  
-PSALM-MD Multi Device Whatsapp Bot.
-## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
 
 
  
